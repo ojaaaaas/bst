@@ -1,4 +1,4 @@
-#find inorder predecessor and usccessor
+#find inorder predecessor and susccessor
 class Node:
     def __init__(self, key=None):
         self.left = None
